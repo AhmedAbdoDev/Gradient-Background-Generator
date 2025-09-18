@@ -42,11 +42,11 @@ You need to have **Node.js** and **npm** (or **yarn**) installed on your machine
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/AhmedAbdoDev/Gradient-Background-Generator.git
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd your-repo-name
+    cd Gradient-Background-Generator
     ```
 3.  Install the dependencies:
     ```bash
